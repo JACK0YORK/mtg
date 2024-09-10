@@ -3,4 +3,5 @@
 /__pycache__
 *.png
 oracle-cards.json
+*.json
 customcards/mana-master
